@@ -6,4 +6,4 @@ A Google Charts chart of how much U.S. adults say they have seen or heard about 
 
 Also on CodePen: https://codepen.io/mentalplatypus/pen/qBpPjvJ
 
-More projects by [David Wang](https://mentalplatypus.github.io/).
+Part of [David Wang's portfolio](https://mentalplatypus.github.io/).
